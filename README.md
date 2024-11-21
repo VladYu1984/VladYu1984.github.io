@@ -1,19 +1,5 @@
-# Привет! Меня зовут [Ваше Имя] 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
-
-## О себе
-Я разработчик с опытом в [Технологии, которые вы используете].
-
-- 🌱 Сейчас учу [Что вы изучаете].
-- 👯 Ищу сотрудничество в [Какие проекты вам интересны].
-- 💬 Задавайте вопросы о [Ваши знания].
-- 📫 Свяжитесь со мной: [Ваш email или ссылки на социальные сети].
-- ⚡ Факт обо мне: [Интересный факт о вас].
-
-## Технологии и инструменты:
-![Технология1](https://img.shields.io/badge/-Технология1-000?&logo=логотип_технологии1)
-![Технология2](https://img.shields.io/badge/-Технология2-000?&logo=логотип_технологии2)
-
-## Статистика GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&count_private=true&theme=default_repocard)
+<div id="header"align="center">
+  <img src="https://t3.ftcdn.net/jpg/07/34/58/62/360_F_734586239_E24h6zE8th7ftIFHtMGMDR00z7CsBwz8.jpg" width="450" style='border-radius: 20px; overflow:hidden'/>
+  <h2 align="center">Hi, I'm Vladislav</h2>
+  <h3>I develop applications of different sizes: landing pages, SPA, web applications, longreads, browser extensions, MPA.</h3>
+</div>
