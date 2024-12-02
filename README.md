@@ -14,23 +14,55 @@
         </p>
     </div>
     </div> 
-      <div>
+    <div>
         <h2>Tech stack</h2>
-            <h4>Design</h4>
-            <img src="https://skillicons.dev/icons?i=figma" />
-            <h4>Markup and Preprocessors</h4>
-            <img src="https://skillicons.dev/icons?i=html,css,pug,scss" />
-            <h4>Languages</h4>
-            <img src="https://skillicons.dev/icons?i=js,ts" />
-            <h4>Frameworks</h4>
-            <img src="https://skillicons.dev/icons?i=react,redux,vue,pinia,nuxtjs" />
-            <h4>Bundlers</h4>
-                <ol style="list-style-type:none;">
-                    <li><img src="https://skillicons.dev/icons?i=npm,yarn" /></li>
-                    <li><img src="https://skillicons.dev/icons?i=webpack,vite" /></li>
-                    <li><img src="https://skillicons.dev/icons?i=nodejs" /></li>
-                </ol>
-            <h4>Testing & CI</h4>
-            <img src="https://skillicons.dev/icons?i=jest,docker,git,gitlab,grafana" />
-      </div>
+        <h4>Design</h4>
+        <img src="https://skillicons.dev/icons?i=figma" />
+        <h4>Markup and Preprocessors</h4>
+        <img src="https://skillicons.dev/icons?i=html,css,pug,scss" />
+        <h4>Languages</h4>
+        <img src="https://skillicons.dev/icons?i=js,ts" />
+        <h4>Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,pinia,nuxtjs" />
+        <h4>Bundlers</h4>
+        <img src="https://skillicons.dev/icons?i=npm,yarn,webpack,vite,nodejs" />
+        <h4>Testing & CI</h4>
+        <img src="https://skillicons.dev/icons?i=jest,docker,git,gitlab,grafana" />
+    </div>
+    <div>
+        <h2>Contact Me</h2>
+        <div style="display:flex; justify-content:flex-start; align-items:center;">
+            <a
+                style="margin-right: 10px;"
+                href="https://www.linkedin.com/in/vlad-yu-b818b1211/"
+                target="_blank"
+            >
+                <img src="https://skillicons.dev/icons?i=linkedin" />
+            </a>
+            <h4>LinkedIn</h4>
+        </div>
+        <div style="display:flex; justify-content:flex-start; align-items:center;">
+            <a
+                style="margin-right: 10px;"
+                href="https://mail.yandex.ru/?uid=1606901199#tabs/relevant"
+                target="_blank"
+            >
+                <img src="https://skillicons.dev/icons?i=gmail" />
+            </a>
+            <h4>Mail</h4>
+        </div>
+        <div style="display:flex; justify-content:flex-start; align-items:center;">
+            <a
+                style="margin-right: 10px;"
+                href="https://t.me/CEODemon"
+                target="_blank"
+            >
+                <img
+                    style="width: 48px; height: 48px;"
+                    src="https://web.tlgrm.app/icon-192x192.png" 
+                />
+            </a>
+            <h4>Telegram</h4>
+        </div>
+    </div>
 </div>
