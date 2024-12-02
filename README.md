@@ -3,7 +3,7 @@
     <h2>Hɪ, I'ᴍ Vʟᴀᴅɪsʟᴀᴠ</h2>
     <h3 align="left">I ᴅᴇᴠᴇʟᴏᴘ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs ᴏғ ᴅɪғғᴇʀᴇɴᴛ sɪᴢᴇs: ʟᴀɴᴅɪɴɢ ᴘᴀɢᴇs, SPA, ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs, ʟᴏɴɢʀᴇᴀᴅs, ʙʀᴏᴡsᴇʀ ᴇxᴛᴇɴsɪᴏɴs, MPA.</h3>
     <div>
-        <p>
+        <p align="left">
             𝙸 𝚊𝚖 𝚊 𝚅𝚞𝚎 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚘𝚟𝚎𝚛 𝟸 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗,
             𝚞𝚜𝚎𝚛-𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 𝙼𝚢 𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎 𝚒𝚗𝚌𝚕𝚞𝚍𝚎𝚜 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚄𝙸 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜,
             𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚛𝚘𝚞𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚝𝚊𝚝𝚎 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝, 𝚊𝚗𝚍 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚏𝚘𝚛 𝚜𝚌𝚊𝚕𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚊𝚗𝚍 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎.
@@ -29,7 +29,7 @@
                     <li><img src="https://skillicons.dev/icons?i=npm,yarn" /></li>
                     <li><img src="https://skillicons.dev/icons?i=webpack,vite" /></li>
                     <li><img src="https://skillicons.dev/icons?i=nodejs" /></li>
-                </щl>
+                </ol>
             <h4>Testing & CI</h4>
             <img src="https://skillicons.dev/icons?i=jest,docker,git,gitlab,grafana" />
       </div>
